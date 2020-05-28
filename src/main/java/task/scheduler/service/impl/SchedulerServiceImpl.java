@@ -54,6 +54,7 @@ public class SchedulerServiceImpl implements SchedulerService {
             } else {
                 scheduler.removeIf(taskDto ->
                     taskDto.getId().equals(id));
+                scheduler.stream().forEach(taskDto -> taskDto.getDependencies().remove(id));
                 System.out.println(messages.get("remove.task.success"));
             }
         } catch (Exception e) {
@@ -97,7 +98,7 @@ public class SchedulerServiceImpl implements SchedulerService {
             LocalDate newStartDate = DateFormatter.getLocalDate(InputHelper.getInput());
             if(newStartDate.isBefore(LocalDate.now())) {
                 System.out.println(messages.get("old.invalid.date"));
-                localDate = setStartDate(localDate);
+                newStartDate = setStartDate(localDate);
             }
             return newStartDate;
         } catch (Exception e) {

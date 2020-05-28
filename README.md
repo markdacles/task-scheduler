@@ -5,7 +5,7 @@ simple console task scheduler application
 
 To execute application:
 1. Run task-scheduler-0.0.1-SNAPSHOT_java8.jar in terminal using the following command
- <br><br>java -jar task-scheduler-0.0.1-SNAPSHOT_java8.jar
+ <br><br>java -jar task-scheduler-0.0.1-SNAPSHOT.jar
  
 A menu will be shown in the console where options 1-7 are available.
 
