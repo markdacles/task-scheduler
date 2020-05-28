@@ -20,7 +20,7 @@ apply plugin: 'io.spring.dependency-management'
 
 group = 'task.scheduler'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '1.11'
+sourceCompatibility = '1.8'
 
 repositories {
     // Use jcenter for resolving dependencies.
