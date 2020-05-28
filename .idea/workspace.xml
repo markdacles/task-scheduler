@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3947f0a-1940-4b06-8f66-6332ded52e11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="task-scheduler" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="task-scheduler" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="task-scheduler" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="task-scheduler" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="task-scheduler" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cU9kybXsjPElhaGIQN4bRw4KDh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.exist.scheduler.app.Main" />
+      <module name="task-scheduler" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task-scheduler.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="task.scheduler.SchedulerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3947f0a-1940-4b06-8f66-6332ded52e11" name="Default Changelist" comment="" />
+      <created>1590572451081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590572451081</updated>
+      <workItem from="1590572455642" duration="41824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="45" width="847" height="675" key="#Project_Structure" timestamp="1590599827075">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="306" y="45" width="847" height="675" key="#Project_Structure/47.24.1319.744@47.24.1319.744" timestamp="1590599827075" />
+    <state x="413" y="189" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590579639462">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="413" y="189" key="#com.intellij.fileTypes.FileTypeChooser/47.24.1319.744@47.24.1319.744" timestamp="1590579639462" />
+    <state x="519" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1590616923957">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="519" y="102" key="#com.intellij.ide.util.MemberChooser/47.24.1319.744@47.24.1319.744" timestamp="1590616923957" />
+    <state x="314" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590578058471">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="314" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/47.24.1319.744@47.24.1319.744" timestamp="1590578058471" />
+    <state x="388" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590600066603">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="388" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/47.24.1319.744@47.24.1319.744" timestamp="1590600066603" />
+    <state x="412" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590640617474">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="412" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/47.24.1319.744@47.24.1319.744" timestamp="1590640617474" />
+    <state x="494" y="141" key="FileChooserDialogImpl" timestamp="1590583061970">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="494" y="141" key="FileChooserDialogImpl/47.24.1319.744@47.24.1319.744" timestamp="1590583061970" />
+    <state x="194" y="24" key="SettingsEditor" timestamp="1590607107399">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="194" y="24" key="SettingsEditor/47.24.1319.744@47.24.1319.744" timestamp="1590607107399" />
+    <state x="146" y="96" width="1121" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590601088851">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="146" y="96" width="1121" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog/47.24.1319.744@47.24.1319.744" timestamp="1590601088851" />
+    <state x="47" y="24" key="new project wizard" timestamp="1590579390605">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="47" y="24" key="new project wizard/47.24.1319.744@47.24.1319.744" timestamp="1590579390605" />
+    <state x="369" y="168" key="run.anything.popup" timestamp="1590613324690">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="369" y="168" key="run.anything.popup/47.24.1319.744@47.24.1319.744" timestamp="1590613324690" />
+    <state x="369" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590606294361">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="369" y="89" width="672" height="678" key="search.everywhere.popup/47.24.1319.744@47.24.1319.744" timestamp="1590606294361" />
+  </component>
+</project>
